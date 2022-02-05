@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*HI EVERYONE *
+_THIS IS MY FIRST TIME_
+
+**DOING THESE KINDA STUFFS**
+__DO HELP ME__
+
+_**SURE I CAN** _
